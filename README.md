@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.imgur.com/o5uMfKo.gif" width="100%" />
+  <img src="https://i.gifer.com/origin/d9/d90ff04d6a5f11c6cfa2b50d3d4f8820.gif" width="100%" />
 </div>
 
-<h1 align="center">Olá, eu sou Raul Fonseca! 👋</h1>
+<h1 align="center" style="color: #00f0ff;">Olá, eu sou Raul Fonseca! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+🚀" />
@@ -10,16 +10,16 @@
 
 ---
 
-### ✨ Sobre mim
+## ✨ Sobre mim
 
 - 🌱 Atualmente estudando: **JAVA, SPINE**
-- 💻 Trabalhando em: **Por enquanto faço uns freelance**
+- 💻 Trabalhando em: **Por enquanto faço uns free**
 - 📚 Sempre aprendendo mais sobre **Fullstack**
 - ⚡ Fun fact: **Calvo aos 21**
 
 ---
 
-### 🚀 Minhas Skills
+## 🚀 Minhas Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Raul-Fonseca">
@@ -42,7 +42,7 @@
 
 ---
 
-### 📫 Como me encontrar
+## 📫 Como me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raul-fonseca-024983240/">
@@ -56,7 +56,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/o5uMfKo.gif" width="100%" />
+  <img src="https://i.gifer.com/origin/d9/d90ff04d6a5f11c6cfa2b50d3d4f8820.gif" width="100%" />
 </div>
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
